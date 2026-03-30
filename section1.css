@@ -1,0 +1,140 @@
+* {
+    font-family: 'lato';
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.s1 {
+    background-color: rgba(29, 43, 56, 1);
+    width: 1600px;
+    height: 873px;
+    margin-top: 0;
+
+
+}
+
+.text-1 {
+    color: rgba(255, 255, 255, 1);
+    width: 400px;
+    height: 312px;
+    margin-top: 330px;
+    margin-left: 123px;
+    display: inline-block;
+    position: absolute;
+
+}
+
+.text-1 h1 {
+    font-weight: 800;
+    font-style: Bold;
+    font-size: 54px;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    line-height: 70px;
+
+
+}
+
+.text-1 p {
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    margin-top: -10px;
+}
+
+.text-1 a {
+    font-weight: 700;
+    color: #FF5A3C;
+    font-family: Lato;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.text-2 {
+    /*color: rgba(255, 255, 255, 1);
+    width: 343px;
+    height: 143px;
+    margin-top: 509px;
+    margin-left: 1150px;
+    background-color: rgba(255, 255, 255, 0.05);
+    position: relative;
+    display: flex;
+    display: inline-block;*/
+    width: 343px;
+    height: 143px;
+    top: 509px;
+    left: 1139px;
+    opacity: 1;
+    position: absolute;
+    display: flex;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.05);
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.text-2 p {
+    padding-top: 20px;
+    padding-left: 40px;
+
+
+}
+
+.img {
+    width: 539px;
+    height: 641px;
+    top: 240px;
+    left: 532px;
+    opacity: 1;
+    border-top-left-radius: 269.5px;
+    border-top-right-radius: 269.5px;
+    position: absolute;
+}
+
+
+
+
+
+.hero-img {
+    display: flex;
+    justify-content: center;
+}
+
+.vector1 {
+    width: 47px;
+    height: 47px;
+    top: 307px;
+    left: 573px;
+    opacity: 1;
+    position: absolute;
+
+}
+.vector3 {
+    width: 75.99999407570603px;
+    height: 178.00000399352538px;
+    top: 372.79px;
+    left: 1058.3px;
+    opacity: 1;
+    position: absolute;
+
+
+}
+
+.vector2 {
+    width: 41px;
+    height: 33px;
+    top: 493px;
+    left: 1404px;
+    opacity: 1;
+    position: absolute;
+
+}
